@@ -1,2 +1,0 @@
-# jogodaforca
- sub programação
